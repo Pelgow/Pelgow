@@ -7,7 +7,7 @@
 
 - Name : Paul
 - :student: Age : 18
-- :computer: Work : Currently learning on Git, Github, Laragon in [IIM, Digital School, Paris ](https://www.iim.fr/)
+- :computer: Work : Currently learning on Git, Github, Laragon and Sass in [IIM, Digital School, Paris ](https://www.iim.fr/)
 - Hobbies : Reading (mangas <img src="https://i.pinimg.com/originals/94/5d/92/945d92f8edde5a58e9b2185e3727353e.gif" width="20" height="20"/> ), Music (mainly hip-hop <img src="https://c.tenor.com/pXT7zZbC5EAAAAAM/screat.gif" width="20" height="20"/> and pop <img src="https://phoneky.co.uk/thumbs/screensavers/down/music/michaeljac_tekpi9qa.gif" width="20" height="20"/>), Videogames (Super smash bros Ultimate <img src="https://thumbs.gfycat.com/MedicalEmbellishedHermitcrab-size_restricted.gif" width="20" height="20"/> )
 
 
